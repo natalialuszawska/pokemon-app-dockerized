@@ -1,0 +1,6 @@
+[submodule "pokemon-app-frontend"]
+	path = pokemon-app-frontend
+	url = https://github.com/natalialuszawska/pokemon-app-frontend.git
+[submodule "pokemon-app-backend"]
+	path = pokemon-app-backend
+	url = https://github.com/natalialuszawska/pokemon-app-backend.git
